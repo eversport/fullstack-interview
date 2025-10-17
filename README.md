@@ -117,4 +117,19 @@ We believe that great developers are not bound to a specific technology set, but
 - TypeScript - https://www.typescriptlang.org/
 - Jest - https://jestjs.io/
 
+## 🤖 Use of AI Tools
+
+At Eversports, we actively use AI as a supporting tool in our daily work, and we welcome candidates who can use it effectively and responsibly. You are free to use AI tools (such as ChatGPT, GitHub Copilot, Claude Code, or others) while completing this assignment. To help us understand your individual contribution and reasoning, **please add an AI-SUPPORT.md file** and describe in there where and how you used AI assistance.
+
+Example AI-SUPPORT.md format:
+```
+- Used Claude Code to generate the initial code structure.
+- Asked GitHub Copilot for suggestions on unit test setup.
+- Used ChatGPT to rephrase parts of this README for clarity.
+```
+
+It’s important to note that there are **no penalties for using AI**. Our goal is simply to understand which parts reflect your own problem-solving and which were supported by tools.
+
+---
+
 Best of luck and looking forward to what you are able to accomplish! 🙂
