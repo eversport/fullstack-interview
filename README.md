@@ -1,8 +1,5 @@
 # Fullstack Interview Challenge
 
-> [!IMPORTANT]
-> You should have received a google doc together with this repository that explains in detail the scope and context of the exercise, together with it's acceptance criteria and any other necessary information for the completion of the challenge.
-
 ## Context
 
 You are working in the product team at eversports that is maintaining the eversports manager. You and your team are working on a bunch of features around memberships within the current quarter.
